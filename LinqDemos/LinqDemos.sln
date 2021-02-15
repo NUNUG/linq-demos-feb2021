@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqDemos", "LinqDemos\LinqDemos.csproj", "{B4331390-1569-4C10-8CFB-A56C17333252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqData", "LinqData\LinqData.csproj", "{52630C94-335D-4F12-9F99-1CD60C8B5186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4331390-1569-4C10-8CFB-A56C17333252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4331390-1569-4C10-8CFB-A56C17333252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4331390-1569-4C10-8CFB-A56C17333252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4331390-1569-4C10-8CFB-A56C17333252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52630C94-335D-4F12-9F99-1CD60C8B5186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52630C94-335D-4F12-9F99-1CD60C8B5186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52630C94-335D-4F12-9F99-1CD60C8B5186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52630C94-335D-4F12-9F99-1CD60C8B5186}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54F63AD6-85F1-408D-B3C9-0021F4CFC8C0}
+	EndGlobalSection
+EndGlobal
